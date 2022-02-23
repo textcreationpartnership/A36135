@@ -1,0 +1,428 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Discovery or declaration that the judgement in behalf of the fundamental deliverance of the poor and afflicted, the faithul [sic] and elect is not at all to begin with the Pope of Rome, but from the house of God or His sanctuary ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36135</idno>
+            <idno type="STC">Wing D1663</idno>
+            <idno type="STC">ESTC R992</idno>
+            <idno type="EEBO-CITATION">12264942</idno>
+            <idno type="OCLC">ocm 12264942</idno>
+            <idno type="VID">57991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 181:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Discovery or declaration that the judgement in behalf of the fundamental deliverance of the poor and afflicted, the faithul [sic] and elect is not at all to begin with the Pope of Rome, but from the house of God or His sanctuary ...</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57991:1"/>
+            <pb facs="tcp:57991:1"/>
+            <p>DISCOVERY OR DECLARATION.</p>
+            <p>That the Judgement in behalf of the Fun<g ref="char:EOLhyphen"/>damental <note place="margin">
+                  <hi>Jam.</hi> 5.</note> Deliverance of the Poor and Afflicted, the Faithful and Elect, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is not at all to <note place="margin">
+                  <hi>Pſa.</hi> 12.72.</note> begin with the Pope of Rome; but from the <note place="margin">
+                  <hi>Mat.</hi> 24.</note> Houſe of God or His Sanctuary; for which cauſe alſo <note place="margin">
+                  <hi>Luk.</hi> 18.</note> God ſhall cut off both head and tail, both branch and ſtock in one day. The Honourable Ancient men <note place="margin">1 <hi>Pet.</hi> 4.</note> are the head; but the Prophets that teach falſly are <note place="margin">
+                  <hi>Ezek.</hi> 9.</note> the tayle; for the Leaders of the people are Se<g ref="char:EOLhyphen"/>ducers, and they which are lead by them pe<g ref="char:EOLhyphen"/>riſh: <note place="margin">
+                  <hi>Iſa.</hi> 9.</note> Therefore ſhall the Lord with his ſore, great, and long Sword, viſit both the Le<g ref="char:EOLhyphen"/>viathan, <note place="margin">
+                  <hi>Iſa.</hi> 27.</note> 
+               <hi>that is,</hi> a ſtreight Serpent, and the Leviathan, <hi>that is,</hi> a crooked, and ſlay the Dragon in the Sea.</p>
+            <p>CONCERNING, The Heads, Judges, or Governors in <hi>Holland</hi> and <hi>England,</hi> as who <note place="margin">
+                  <hi>Mich.</hi> 3.7. <hi>Wiſd.</hi> 6. <hi>Zeph.</hi> 3. <hi>Revel.</hi> 13. 16. 17.21. <hi>Pſal.</hi> 10.33 94. <hi>Iſa.</hi> 8, 30<hi>:</hi>
+               </note> do build <hi>Zion</hi> with blood, and overthrow the Decree and Judge<g ref="char:EOLhyphen"/>ment of God, about the Fundamental Deſtruction of the Whore of <hi>Babylon;</hi> Yea, do all they can by their deſigns, humane Councels and Devices, utterly to diſanul the Eternal Counſel of God in that behalf, <hi>Pſal.</hi> 33.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1660.</p>
+            <pb facs="tcp:57991:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57991:2"/>
+            <head>GOD. A ſtumbling ſtone, and Rock of offence unto the Heathen, or falſe Chriſtian, that do not believe the word whereon they are ſet.</head>
+            <p>
+               <note place="margin">
+                  <hi>Mat.</hi> 24. 1 <hi>Pet.</hi> 2. <hi>Eſa.</hi> 8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <hi>Mat.</hi> 21. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Theſ.</hi> 3. <hi>Mat.</hi> 1.13 <hi>Luke</hi> 8.10. <hi>Jam.</hi> 3. <hi>Zepha.</hi> 3. <hi>Eſa.</hi> 3.10. <hi>Eſa.</hi> 24. 56 57.</note>EVen as the only true, and alone ſaving Faith, is not common to all, and every one; ſo neither, and much leſs yet, is th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Teaching or Miniſtry of Faith, as of the myſtery or Kingdome of God, indifferent to any, the name having ever been hid to the wiſe and prudent of the world, even from the beginning, 1 <hi>Cor.</hi> 1. Therefore not every one ſhould take upon him to be a Teacher, he ſhall paſs the heavier judgement, for the outward deſtructi<g ref="char:EOLhyphen"/>ons in the world, <hi>Rom.</hi> 9. which have been ſet on foot, or in<g ref="char:EOLhyphen"/>troduced all this while with the ruine of mankind; ye are the fruits, whereby the falſe Teachers, 2 <hi>Pet.</hi> 2. the Prieſts, and Prophets that were never known nor ſent of God, are to be <note place="margin">
+                  <hi>Ezek.</hi> 9.13 22. 34. 2 <hi>Tim.</hi> 4. <hi>Rom.</hi> 2. <hi>Coloſ.</hi> 2. 1 <hi>Cor.</hi> 3. <hi>Mat.</hi> 21.</note> known, <hi>Jer.</hi> 14.23. <hi>Mat.</hi> 7. <hi>Mark</hi> 13. whom indeed the peo<g ref="char:EOLhyphen"/>ple have heaped or charged upon themſelves, among themſelves, and by whom, (to the reproach of Chriſt) that are not at all buil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up according to the renewing in the Spirit of the mind, upon the foundation of the Prophets and Apoſtles, 1 <hi>Pet.</hi> 2. where Jeſus Chriſt is the Corner-ſtone, <hi>Act.</hi> 4. For which cauſe alſo they <hi>viz.</hi> the Herb, or falſe Chriſtians, <hi>Mark</hi> 13. are ſo divide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <note place="margin">2 <hi>Pet</hi> 2. <hi>Rom.</hi> 1.11. <hi>Epiſ. Jud. Rom.</hi> 16. <hi>Hoſ.</hi> 10.</note> or torn and rent in pieces, now in all their Sectaries and Parties, through the contentious practiſes of their Shepherds, or Learne-men, <hi>Jer.</hi> 2. 10. and ſo blinded, in regard of Chriſt the Light of Faith, <hi>Eph.</hi> 4. that ye take no heed at all according to the <note place="margin">2 <hi>Cor.</hi> 4. 1 <hi>Theſ.</hi> 5. <hi>Dan.</hi> 7.22. <hi>Jer.</hi> 5. 8, 9, 10, 30.</note> brightneſs of the Goſpel, which yet ought principally to en<g ref="char:EOLhyphen"/>lighten or ſhine in their hearts or conſciences, unto this preſent and laſt time, <hi>viz.</hi> unto the day of the Lord, yet believe nei<g ref="char:EOLhyphen"/>ther God, nor right Judgement, nor Righteouſneſs more, <hi>Sap.</hi> 2. 8. concerning the Fundamental Charge, or removal of this preſent trouble, great diſtreſs, and univerſal calamity; which fearful ſlighting Chriſt the Arch-Shepherd, the true Hereditary,
+<pb n="4" facs="tcp:57991:3"/>
+inheriting Lord of all the Heathen, <hi>Pſal.</hi> 82. will be ſure to avenge. <note place="margin">
+                  <hi>Rom.</hi> 9. <hi>Luk.</hi> 21. <hi>Mark</hi> 13. <hi>Mica</hi> 4. 5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 5. <hi>Heb.</hi> 13. <hi>Mat.</hi> 21.24. <hi>Mark</hi> 12. 13. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2.</note> 
+               <hi>Mich.</hi> 5. But in the firſt place, upon the builders of this preſent falſe <hi>Jeruſalem,</hi> or unſpiritual Temple, and unholy Prieſt-hood, 1 <hi>Pet.</hi> 4. For that ſtately Building of the Shepheards, which built this preſent <hi>Babel,</hi> and made the Flocks to become a prey to all the wilde beaſts of the forreſt, even by themſelves, is not at all to ſtand or endure to the end of the world, even as the ſcorners of old had likewiſe imagined, who ever more re<g ref="char:EOLhyphen"/>ſiſted God inwardly in their hearts and conſciences, <hi>Epiſtle Jude.</hi>
+            </p>
+            <p>It is not lawful for any ſhepherd or miniſter at all to prevent the <note place="margin">
+                  <hi>Jer.</hi> 25. <hi>Rev.</hi> 16. <hi>Ezek.</hi> 34. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 3. <hi>Jer.</hi> 23. <hi>Ezek.</hi> 13. <hi>Acts</hi> 10. <hi>Iſa.</hi> 28. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tim.</hi> 1. <hi>Tit.</hi> 1. <hi>Matt.</hi> 15. 23, 24. <hi>Mark</hi> 7. 13. <hi>John</hi> 2. 4. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tim.</hi> 4. <hi>Col.</hi> 2. <hi>Mat.</hi> 7. <hi>John</hi> 10. <hi>Ezek.</hi> 13. 22. <hi>Mat.</hi> 23. <hi>Luk.</hi> 11. <hi>Eph.</hi> 4.5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <hi>Pſ.</hi> 14.141. <hi>Mat.</hi> 15. <hi>Col.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tim.</hi> 3. <hi>Pſal.</hi> 53. <hi>Zeph.</hi> 3. <hi>Mat.</hi> 23. <hi>Luk.</hi> 11.</note> word of the living God, the Lord of Hoſts, or to teach the ſame falſely or perverſly, only according to the Viſion or Spirit of his own heart, much leſs according to his own Satanical, harebraind, puft up, arrogant, and develiſh preſumption, <hi>Pſal</hi> 12. 73. or to maſter the Scripture altogether, as is now adays the common pra<g ref="char:EOLhyphen"/>ctice amongſt theſe audacious, unprofitable bablers and ſeducers, who have made all the world to hang after them, ſeduced the ſame, or for doing upright, and dealing uprightly, according to conſci<g ref="char:EOLhyphen"/>ence, led them away from God, <hi>Jer.</hi> 2. 10. 50. being indeed not all of God, but only of the world, come from the high Schools or Univerſities, covering themſelves with black or ſheeps cloath<g ref="char:EOLhyphen"/>ing, walking in the humbleneſs and decentneſs or gliſtringneſs of Angels, but being therewithal inwardly ravening wolves, and hirelings; yea theeves and murderers of ſouls, deceiving the peo<g ref="char:EOLhyphen"/>ple, and outwardly painting, dawbing over, or covering ſuch of them as delight to hear their hypocriſie and lying giving about too contrary to the doctrine of Chriſt and his Diſciples, the true Apo<g ref="char:EOLhyphen"/>ſtles and Prophets, to make them outwardly fair and godly through themſelves, or holy out of their own power; <hi>But in vain,</hi> ſaith Chriſt, <hi>do ye teach ſuch doctrines as are nothing but the Comman<g ref="char:EOLhyphen"/>dements of men; that ſay, thou ſhalt not touch, taſte, handle this:</hi> things that periſh all under the hands that have a ſhew of wiſdom, through ſelf invented ſpirituality and humility, ever teaching, and never able to attain to the knowledge of truth; urging men by their unprofitable and perverſe doctrines from without; troubling them with grievous inſtitutions, dragging or loading them with great burdens, or intollerable Yoaks, becauſe of their falſe works and ſelf-deviſed holineſs, whereby God the foundation of
+<pb n="5" facs="tcp:57991:3"/>
+the Head-ſpring of all good, being already rejected by the Ma<g ref="char:EOLhyphen"/>ſter-buildings, <note place="margin">
+                  <hi>Pſ.</hi> 59. 144 <hi>Mat.</hi> 21. <hi>Mark</hi> 12. <hi>Luke</hi> 20. <hi>Pſa.</hi> 118. 1 <hi>Tim.</hi> 4. <hi>Titus</hi> 3. <hi>Rom.</hi> 9. 1 <hi>Joh.</hi> 1.4. <hi>Coloſ.</hi> 2.3. <hi>Eph.</hi> 2.4. <hi>Rom.</hi> 4.11. 1 <hi>Pet.</hi> 5. <hi>Gal.</hi> 5. <hi>Rom.</hi> 5.12. <hi>Eph.</hi> 2. <hi>Coloſ.</hi> 1. 1 <hi>Cor.</hi> 6.7 1 <hi>Pet.</hi> 1. <hi>Rom.</hi> 9.10.</note> muſt ſtand behind now, and have no intereſt nor e<g ref="char:EOLhyphen"/>ſteem more in the world, juſt, as if for the accompliſhment, or performing much things, men were ſufficient of themſelves, or it depended meerly of their bodily exerciſes or abilities, and were not according to Gods preventing Grace to be directed, from that ſame ground, wherein the true Believers are rooted in the Communion of God, who therefore ought to be united together through the Bond of Peace, and the love of God in the Spirit, for to be eſtabliſhed through Faith in the Grace of God, and in the freedome of our Lord and Saviour Jeſus Chriſt, his Members being already grafted into him, and thus planted or tranſplanted in the Celeſtial Being, after they were once delivered from the Power of Darkneſs, redeemed through the Blood of the Son of God, and dearly purchaſed for his Everlaſting Kingdome.</p>
+            <p>For with God there availeth no deceived or inured practiſe of ſelf-bred holineſs, or Jewiſh righteouſneſs, as not meerly the outward putting away of the filth in the fleſh, like unto the painted or gliſtering wicked <hi>Jezabel;</hi> but the Covenant of a good conſcience with God, and that through the power of the <note place="margin">
+                  <hi>Iſa.</hi> 48.58. 2 <hi>Kings</hi> 9. 1 <hi>Pet.</hi> 3. <hi>Phil.</hi> 2. <hi>Eph.</hi> 1.3.5. <hi>Coloſ.</hi> 1.2. 1 <hi>Pet.</hi> 3. <hi>Pſal.</hi> 12. <hi>Gal.</hi> 6.</note> Reſurrection of Jeſus Chriſt, who is the Head of the Magi<g ref="char:EOLhyphen"/>ſtrates, Principalities and Dominions, for whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h cauſe the An<g ref="char:EOLhyphen"/>gels, the Mighty Ones, and the Powers in Heaven and Earth ought to be ſubject, ſubmiſſive, and obedient unto him, <hi>Heb.</hi> 5.12. but yet by no means in any ſlight or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uperficial manner, only from without, according to the nature and practiſe of hypo<g ref="char:EOLhyphen"/>crites and diſſemblers, which make themſelves acceptable accord<g ref="char:EOLhyphen"/>ing to the fleſh, and neglect withall the weightieſt matters in the Law, namely, the Judgement, the Mercy, and the Faith, by <note place="margin">
+                  <hi>Mat.</hi> 23. <hi>Jer.</hi> 23. 2 <hi>Theſ.</hi> 2. <hi>Revel.</hi> 20. <hi>Cor.</hi> 2.10. <hi>Hebr.</hi> 12. <hi>Mat.</hi> 11.2 <hi>Mark</hi> 8. <hi>John</hi> 12. <hi>Eſa.</hi> 12. 6. <hi>Rom.</hi> 8.11. <hi>John</hi> 1.17 <hi>Gal.</hi> 4. <hi>Rom.</hi> 5. 2 <hi>Pet.</hi> 2. <hi>Eph.</hi> 4.</note> reaſon of which hypocriſie, all things are now through the pow<g ref="char:EOLhyphen"/>er and operation of Satan, turned looſe in the world, ſo that there is none more that deſireth to endure the perſecutions of the Croſs of Chriſt, under the obedience of Faith, or that ſo hoped for the ſalvation of the Lord, or waited for the help out of <hi>Sion,</hi> under the yoak of the Sea of God, in contemning the world, and denying of himſelf, <hi>Mat.</hi> 10. 16. 19. <hi>Luke</hi> 9. 4. 18. as to obſerve and take heed to the deliverance of <hi>Iſrael,</hi> accord<g ref="char:EOLhyphen"/>ing to the Morning Star of the Grace of God, 2 <hi>Pet.</hi> 1.</p>
+            <p>But the dung of the Feaſts, or Holy-daies (whereby the fleſh hath now gotten ſcape to all manner of naughtineſs, and through the inticement and allurings whereof, people are ſo ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>remely
+<pb n="6" facs="tcp:57991:4"/>
+blinded in the deepeſt bottom of their hearts, and made like to <note place="margin">
+                  <hi>Jer.</hi> 17.18 19. <hi>Mal.</hi> 2. <hi>Jer.</hi> 23. <hi>Phil.</hi> 2. 3. <hi>Exod.</hi> 19. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 1.6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 6. <hi>Rom.</hi> 14. <hi>Mat.</hi> 15. <hi>John</hi> 15. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 3. <hi>Eph.</hi> 2. <hi>Gal.</hi> 6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 4. <hi>Coloſ.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tim.</hi> 4. <hi>John</hi> 15. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 5. <hi>Rom.</hi> 7. <hi>Gal.</hi> 3. 5. <hi>Eph.</hi> 4. <hi>Hebr.</hi> 3. <hi>Luke</hi> 1. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 1. <hi>Hebr.</hi> 4. <hi>Iſa.</hi> 40. <hi>Rom.</hi> 9. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <hi>Pſ.</hi> 87.125 <hi>Eſa.</hi> 15. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <hi>Coloſ.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Tim.</hi> 1. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 4. <hi>Rom.</hi> 11. <hi>Mat.</hi> 21. <hi>Rom.</hi> 11. <hi>Hebr</hi> 8. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 9. <hi>Mat.</hi> 24. <hi>Ep. Iud. Coloſ.</hi> 2. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 3. 2 <hi>Tim.</hi> 4. <hi>Mark</hi> 13. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 2. 5.</note> Sepulchres) the ſame ſhall be caſt into face of the Prieſts, for their dreams avail nothing at all, but the Word of God doth; and that which doth not proceed of Faith, or conſiſteth in the power of Divine Working, or Efficacy (according as the Holy Ghoſt will have his own peculiar people to be governed) that ſame is ſin; therefore ſaith Chriſt, <hi>All the plants which mine hea<g ref="char:EOLhyphen"/>venly Father hath not planted, are cut off, and whatſoever bring<g ref="char:EOLhyphen"/>eth not forth fruit,</hi> out of Chriſt, <hi>the ſame is caſt into the fire:</hi> Whence it is that the holy Apoſtle <hi>Paul</hi> doth not at all allow of, or require the bare, outward, ſelf-performed works, by carnal power and ability, leſt any ſhould glory in of the ſame, exalt himſelf therein, as thoſe in the firſt Teſtament, when they had not the knowledge of Chriſt yet, but in a new ſubſtantial way of the ſpirit, <hi>Rom.</hi> 7. in holineſs and righteouſneſs, which is accept<g ref="char:EOLhyphen"/>able to God, yeilding the fruit of the incorruptible ſeed, and that according to the power of the living Word of God, which endureth for ever; wherefore the true Believers, according to, and for the inward grounds of their hearts, are to be built and bottomed, or grounded faſt, that ſo conformably to the Goſpel of Chriſt, they may be cemented, and junctary be ſupported to<g ref="char:EOLhyphen"/>gether, for the improvement of the common body; for when the people of the <hi>Jews,</hi> who yet were the true natural branch, did not adhere to their Teſtament in this manner, and brought not accordingly fruits worthy of the Kingdome of God, the ſame was taken from them, yea, no more regarded, and quite caſt or cut off from the root, <hi>Rom.</hi> 11.</p>
+            <p>Let none at all therefore imagine, or be conceited, as if his falſe Prophets now had falſe Power and Commiſſion yet from God, or part of his everlaſting Kingdome, for thoſe dreams which are meerly carnal, and have no ſpirit at all, namely, thoſe light-ſwelling proud Saints, on whom the world relieth. Now for their Salvation, and by whom the people, ever according to their own wills and pleaſures, are ſo far ſeduced, and led away from God, that none doth care or deſire any more, in the in<g ref="char:EOLhyphen"/>ward ground of the heart or conſcience, to ſquare his actions to the Counſel of the Lord, or the Will of God, arrogating be<g ref="char:EOLhyphen"/>ſides unto themſelves, according to their audaciouſneſs, to Lord and Maſter it over heaven it ſelf, by their falſe or pick-key-of<g ref="char:EOLhyphen"/>fice,
+<pb n="7" facs="tcp:57991:4"/>
+according to, or by which, the Devil through them abſol<g ref="char:EOLhyphen"/>veth now from, or forgiveth ſins, to the utter ruine of all man<g ref="char:EOLhyphen"/>kind: <note place="margin">1 <hi>Pet.</hi> 2.5 <hi>Jer.</hi> 23. <hi>Mat.</hi> 7.21. <hi>Eſa.</hi> 28. <hi>John</hi> 10. <hi>Rev.</hi> 16.20 <hi>Ezek.</hi> 13. <hi>Hoſ.</hi> 4. <hi>Pſal.</hi> 12. <hi>Eſa.</hi> 47.52. <hi>Rev.</hi> 14.17 2 <hi>Pet.</hi> 2. <hi>Zac.</hi> 10.11 13. <hi>Eſa.</hi> 33. 1 <hi>Cor.</hi> 1. <hi>Jer.</hi> 5. 1 <hi>Cor.</hi> 2. <hi>Mat.</hi> 21. 1 <hi>Cor.</hi> 4. 1 <hi>Tim.</hi> 1.4</note> Theſe, I ſay, for the deliverance ſake of the poor and af<g ref="char:EOLhyphen"/>flicted which periſh, are ruined and deſtroyed hereby; or elſe under the <hi>Babylonians</hi> Yoke, or Abomination, fall into perditi<g ref="char:EOLhyphen"/>on of Soul and Body, ſhall be the foremoſt thruſt, and deſtroyed in Hell, or obſcurity of darkneſs, for evermore. <hi>Epiſt. Jude.</hi>
+            </p>
+            <p>The wiſdome of the Wiſe, and the underſtanding of the un<g ref="char:EOLhyphen"/>derſtanding ones, which the Scribes and worldly learned have of God and his Word, is already diſcharged, defeated, and rejected by God, although they have not the Word of the Lord, but re<g ref="char:EOLhyphen"/>peated the ſame afore-hand, according to the ſpiritual knowledge of it, <hi>Jerem:</hi> 8. <hi>Hoſ.</hi> 4. teaching the word of God not at all in his Power, or according to the inſtruction of the Spirit, but falſly and perverſly, by Humane Reaſons, and Worldly Conſtitutions, according to the fabulouſneſs of their deceitful Philoſophy, <hi>Col.</hi> 2. and wherewith the whole world is led away already, by doing of evil, or dealing wrongfully, from Chriſt the Light of E<g ref="char:EOLhyphen"/>verlaſting Salvation, or narrow way of life, according to the knowledge of God: But what the iſſue or condition will be of theſe blinded Heathens, in Chriſt the Light of Faith, or falſe <note place="margin">
+                  <hi>Tit.</hi> 1. <hi>Acts</hi> 20. <hi>Jer.</hi> 23. <hi>Rom.</hi> 1. <hi>Eph.</hi> 4. <hi>Joh.</hi> 8.12, 14. <hi>Mat.</hi> 7. 2 <hi>Cor.</hi> 4. <hi>Tit.</hi> 1. <hi>Eſa.</hi> 26. <hi>Mat.</hi> 7.12. 21. 24. <hi>Rom</hi> 1.6. <hi>Hoſ.</hi> 10. <hi>Jer.</hi> 7. 8. <hi>Eſa.</hi> 1. <hi>Nah.</hi> 3. <hi>Jer.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> mouthed Chriſtians, being ſpiritually dead already, <hi>Rev.</hi> 12. 20. and having never regarded nor cared to bring forth the fruits of Faith, of Love, of Righteouſneſs, but growing, or tarrying now by this their outward Temple wayes, or falſe worſhip, and for to maintain the ſame, ſuch thieves and murderers, that ye do far ſurpaſs the uncircumciſed Heathens, <hi>Jerem.</hi> 9. or the uncharmed beaſts, by whom the Devil did rage and exerciſe his fury in for<g ref="char:EOLhyphen"/>mer times, <hi>Pſal.</hi> 2. 10. 65. 76. 94. 99. with their ſelfiſh, re<g ref="char:EOLhyphen"/>vengeful, Cainical, cruel, more then devilliſh unceſſant practiſes of robberies and murders, that ſame ſhall be made manifeſt, in ſuch ſort, with the vindicating of the holy Name of God, his E<g ref="char:EOLhyphen"/>ternal Truth and Righteouſneſs, that thoſe thieves and murde<g ref="char:EOLhyphen"/>rers ſhall not be able to eſcape the fierceneſs of Gods Wrath, and the five Pools of the Eternal Helliſh condemnation, <hi>Iſa.</hi> 1. 34. 36. who rob God of his Honour and Vengeance, and quite overthrow his Decrees and Judgements, in behalf of the ever<g ref="char:EOLhyphen"/>laſting deliverance of <hi>Iſrael,</hi> with their horns, or wicked pow<g ref="char:EOLhyphen"/>er, which ye do maintain, or keep on foot, with the encreaſe of
+<pb n="8" facs="tcp:57991:5"/>
+the land, the ſweat and blood of the Subjects; and they indea<g ref="char:EOLhyphen"/>vour <note place="margin">
+                  <hi>Hab.</hi> 3. <hi>Joel</hi> 23. <hi>Ezek.</hi> 36. <hi>Pſ.</hi> 89.119 <hi>Rev.</hi> 16.19 <hi>Zac.</hi> 5.10. <hi>Ier.</hi> 25.30. <hi>Rev.</hi> 6. 12. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 4. <hi>Deut.</hi> 32. <hi>Rev.</hi> 13. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 45. <hi>Amos</hi> 6. <hi>Pſal.</hi> 7.6. <hi>Amos</hi> 5. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am.</hi> 50. <hi>Pſa.</hi> 10.33 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 30.31. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ab.</hi> 3. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eut.</hi> 32. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r.</hi> 2.7.14. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. 23. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zd.</hi> 4.15. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 12.74. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 80. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al.</hi> 4. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 8. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 4. 5. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>11. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 10.11 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eph.</hi> 1. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a.</hi> 14.28. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at.</hi> 24. <hi>Pet.</hi> 3. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal.</hi> 12. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 3. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jude.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 2. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 1.57. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 13.22. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h.</hi> 4.5. 2 <hi>Pet.</hi> 2. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>v.</hi> 16. <hi>Cor.</hi> 11. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l.</hi> 12. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 52. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s</hi> 20. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 7. <hi>Rom.</hi> 16. 2 <hi>Pet.</hi> 2.</note> or go about to fruſtrate or diſanul the Counſel of the moſt high, altogether only for their ſelfiſh humour and glory, or Lu<g ref="char:EOLhyphen"/>ciferous exaltations, <hi>Obad.</hi> 1. <hi>Nah.</hi> 3.</p>
+            <p>For the blood of the ſlain, <hi>Iſa.</hi> 26. poor innocent ſouls, that have been ſpilt here and there, for ſuch a time hitherto, in the murdering dens of this falſe Chriſtendome, and the ruine of the poor, that are deſtroyed in all places or countreys, becauſe of the hypocriſie of the evil, diſ-united, (diſagreeing) practiſes of the Shepherds, all that ſame ſhall be judged yet, now before the end of the world, as before the great and terrible day of God, <hi>Hez.</hi> 37. <hi>Mic.</hi> 4.</p>
+            <p>Now that there is none at all more, who according to the in<g ref="char:EOLhyphen"/>ward Law, or teſtimony of faith or conſcience (wherein yet eve<g ref="char:EOLhyphen"/>ry true believer ought to ſtand or walk for his own ſalvations ſake) doth obſerve to take notice of the day of the Lord, or but believe in regard of the deliverance of the faithful and Elect, That there is either a God or a Judgement, that ſame reſteth wholly and principally upon the hypocriſie and lies of the Shepheard, <hi>Jerem.</hi> 33. upon their hypocritical ſhew of holy ways and courſes, which every one doth ſtrive in his own Religion, Seat, or Party, to maintain and deſend, without and againſt God, in which regard they do yet once again outwardly garniſh the ſame people they have already deceived and ſeduced aforehand, <hi>Mat.</hi> 24. having in regard of the light or the only true and ſaving faith, led them aſtray or away from God, and plunged them into error or dark<g ref="char:EOLhyphen"/>neſs of conſcience, which yet ſhall not ſo ſucceed or avail to the Devil for ever; namely to transform himſelf ſtill by his ſervants, the falſe Apoſtles or deceitful Labourers, after ſuch an impudent and ſhamleſs ſort, into an Angel of Light, all whoſe endeavour and labour is but to maintain their own things, <hi>Hez.</hi> 13. devou<g ref="char:EOLhyphen"/>ring the people to feed and fat themſelves, and therewithal re<g ref="char:EOLhyphen"/>viling the counſel of the poor, in regard of the deliverance of <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> or the help out of <hi>Zion;</hi> nay, even utterly denying herein the Almighty Power of God in Chriſt Jeſus, the only Lord and Monarch, <hi>Epiſt. Iude.</hi> Wherefore alſo ſuch fierce and ravening wolves and hirelings, who indeed ſerve but the world and their own bellies, will draw or hale a ſudden condemnation upon them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>
+               <pb n="9" facs="tcp:57991:5"/>
+For not every one that ſaith <hi>Lord, Lord,</hi> ſhall enter into <note place="margin">
+                  <hi>Mat.</hi> 7.21. <hi>Rom.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Heb.</hi> 3.10. <hi>Jer.</hi> 2. 17. <hi>Pſa.</hi> 33.71 72. <hi>Luke</hi> 17. 18. <hi>Eſa.</hi> 28.50 <hi>Zeph.</hi> 1.3. <hi>Dan.</hi> 12. <hi>Pſ.</hi> 58.96. 98.</note> the Kingdome of Heaven; and thoſe that inwardly in their hearts or conſciences have ſo far loſt or forſaken the hope, confidence, and aſſurance in God, the living Foun<g ref="char:EOLhyphen"/>tain, touching the deliverance of the poor and afflicted, the faithful and elect, that ye never yet deſired above all things to do; what the univerſal, temporal, and eternal welfare of mankind do require, they ſhall find it by expe<g ref="char:EOLhyphen"/>rience, to their own eternal ſhame and confuſion, that God both is, and ſhall be Judge in that matter, here upon his earth, or under heaven, <hi>Dan.</hi> 7.</p>
+            <p>The Devil for a good while hitherto hath taken away, or uſurped by the Heathens, or falſe Chriſtians (who are grown <note place="margin">
+                  <hi>Rom.</hi> 1.11. <hi>Mark</hi> 13. <hi>Jam.</hi> 5. 1 <hi>Cor.</hi> 10. <hi>Pſal</hi> 72. <hi>Mat.</hi> 12. <hi>Revel.</hi> 18. <hi>Eſa.</hi> 1. 5. 45. <hi>Pſal.</hi> 10.</note> wroth to deſtroy the earth, <hi>Revel.</hi> 12. 16.) all that, which in the firſt place is Gods, as Silver, Gold, <hi>Hag.</hi> 2. Tribute, Cuſtome, Taxes, Exciſe, Contribution, or the blood-money of the poor, <hi>Amos</hi> 5. Whatſoever is neceſſary for the deli<g ref="char:EOLhyphen"/>verance of the Faithful, and fulfilling of the Judgement of God thereby, not only to hinder the Redemption of <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> or the Fundamental Deliverance of the Elect, but al<g ref="char:EOLhyphen"/>together to fruſtrate and diſanul the ſame, to the end, that only the vain, worldly, and Sectarian quarrelſome contenti<g ref="char:EOLhyphen"/>ons <note place="margin">
+                  <hi>Rom</hi> 1.16 <hi>Hoſ.</hi> 10. <hi>Amos</hi> 5. <hi>Zeph.</hi> 1.3. <hi>Sap.</hi> 5. <hi>Eſa.</hi> 3. 59. 2 <hi>Pet.</hi> 2.3. <hi>Mat.</hi> 24. <hi>Luke</hi> 17. <hi>Syr.</hi> 40. <hi>Gen.</hi> 6.7. 19. 1 <hi>Cor.</hi> 3. 2 <hi>Pet.</hi> 3. <hi>Pſa.</hi> 7.11. 18.89.97.</note> diſtracted Religions, cauſe prate and diſpute, courſes might be maintained, but that hereupon only the fire of deſtruction and deſolation was kindled all the world over, that ſame ſhal ſurely be judged yet in theſe, according to the Righteouſneſs of God, that partake in the guilt and cauſe of it, and do as much care for God in matter of their purpoſes or practiſes herein, as their fellow-ſcorners and ſcoffers of old, in the dayes of <hi>Noah</hi> and <hi>Lot,</hi> whom God for that very cauſe afterwards drowned with the deluge, and deſtroyed with fire and brimſtone from heaven, <hi>Epiſt. Jude, Malach.</hi> 4.</p>
+            <p>The Lord ſhall judge all fleſh by fire and by his ſword, <hi>Iſa.</hi> 66. <hi>Amos</hi> 9.</p>
+            <p>Firſt of all, The men or people of this preſent and laſt <note place="margin">
+                  <hi>John</hi> 5. 1 <hi>Pet.</hi> 2.</note> world, have not the word of God within them, conſe<g ref="char:EOLhyphen"/>quently
+<pb n="10" facs="tcp:57991:6"/>
+all their practiſes and purpoſes are contrary to the writings of the Apoſtles and Prophets, <hi>Iſa.</hi> 8. 28. and <note place="margin">
+                  <hi>Jer.</hi> 7.8.11 14. <hi>Deut.</hi> 18. <hi>Mat.</hi> 3.11. 17. <hi>John</hi> 16. <hi>Pſalm</hi> 69. <hi>John</hi> 2. <hi>Zachar.</hi> 9. <hi>Luk.</hi> 19.21 <hi>Mat.</hi> 24. <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 5.6.7. <hi>Ier.</hi> 23. <hi>Joh.</hi> 8.10. 12.</note> though <hi>Moſes</hi> or <hi>Elias,</hi> nay <hi>Chriſt</hi> himſelf were in the world now to argue and reprove the evil, unrighteous, wicked, falſe, and perverſe courſes of the children of men, and ſhould begin according to the zeal of God, to ſtir againſt their falſe worſhip of God; and according to the true ground, ſeriouſly take to heart and endeavour the reſcuing of mankind from theſe preſent troubles and great tribulati<g ref="char:EOLhyphen"/>ons, aſſuredly it would fare far worſe with them, in regard of this preſent preſumptuous government in the world, then ever hapned in former times among the Jews, in the houſe of <hi>Ahab,</hi> and by wicked <hi>Jezabel</hi> to any, 1 <hi>Kings</hi> 19. 21. <hi>Rom.</hi> 11.</p>
+            <p>For the Heathens or falſe Chriſtians, <hi>Mat.</hi> 24. like unto the Sodomites and Gomoritans, will not endure to be re<g ref="char:EOLhyphen"/>proved <note place="margin">
+                  <hi>Rom.</hi> 1.11. <hi>Gen.</hi> 19. <hi>Re.</hi> 11.19. <hi>Rom.</hi> 1. <hi>Hoſ.</hi> 10.</note> or maſtered here upon the earth and ground of God the Lord of Hoſts, <hi>Pſal.</hi> 24. 89. 95. 103. Their vain Counſels, deſtroying and hurtful Deſignes, and what they themſelves project and make choice of among themſelves, <hi>Iſa.</hi> 65.66. that muſt ſtand according to their imagination <note place="margin">
+                  <hi>Pſal.</hi> 33. <hi>Iſa.</hi> 8.30.</note> for ever, and proſper. But on the contrary, the eternal counſel of the Lord moſt high, touching the ſetting up of his Kingdom, and the executing of his Judgments, <hi>Mat.</hi> 
+               <note place="margin">
+                  <hi>Dan.</hi> 2. 7. <hi>Rev.</hi> 18.19 <hi>Num.</hi> 16.</note> 12. that muſt be no more, but remain behind or periſh al<g ref="char:EOLhyphen"/>together in their account<hi>:</hi> Theſe people nevertheleſs, like <hi>Korah, Dathan,</hi> and gathering of <hi>Abiram,</hi> have outward<g ref="char:EOLhyphen"/>ly a godly ſhew of godlineſs, but they deny the power <note place="margin">2 <hi>Tim.</hi> 3.4. <hi>Acts</hi> 20.</note> thereof, as alſo do their worldly learned and perverted men, through whoſe doctrine they are poſſeſſed and blinded alrea<g ref="char:EOLhyphen"/>dy, by the God of this world, <hi>viz.</hi> by the Devil or Spirit <note place="margin">
+                  <hi>Eph.</hi> 2.4.6. 2 <hi>Cor.</hi> 4. <hi>Epiſt. Jud. Heb.</hi> 4.</note> of darkneſs, which indeed very ſoon diſcovers it ſelf in them when they are rightly ſet upon by the power and truth of the living word of God, <hi>Mich.</hi> 3. 7.</p>
+            <p>Summarily thoſe people which are ſo earneſt, and count<g ref="char:EOLhyphen"/>ed by their outward Temple or falſe worſhip of God, as <note place="margin">
+                  <hi>Ier.</hi> 7. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Ez.</hi> 13.22.</note> that in the firſt place they do inwardly in their hearts and
+<pb n="11" facs="tcp:57991:6"/>
+conſciences, reſiſt the Grace of God, our Lord and Saviour <note place="margin">
+                  <hi>Mat.</hi> 23.24 <hi>Tit.</hi> 2. <hi>Gal.</hi> 4.5. <hi>Rom.</hi> 5. 8. <hi>Ier.</hi> 23. <hi>Iſa.</hi> 28.65. 66. 2 <hi>Theſſ.</hi> 1. <hi>Deutr.</hi> 32.</note> Jeſus Chriſt, according to the Spirit of Adoption; and then in regard of the outward troubles of the world, do not at all deſire or endeavour, above all things to conform their practiſe to the Councel of the Lord, or Will of God, <hi>Mat.</hi> 7. 21. they ſhall find God to be a Vengeance upon them, and a conſuming fire in the nethermoſt Hell, <hi>Heb.</hi> 10. 12. <hi>Zeph.</hi> 1.3.</p>
+            <q>
+               <p>
+                  <hi>Out of</hi> Zion <hi>there breaketh forth the beauteous Splendour of</hi> 
+                  <note place="margin">
+                     <hi>Pſa.</hi> 59.</note> 
+                  <hi>God: Our God is coming, and holdeth not ſilence; a Devour<g ref="char:EOLhyphen"/>ing Fire goeth before him, and</hi> 
+                  <note place="margin">
+                     <hi>Pſa.</hi> 50.</note> 
+                  <hi>about him a great Tempeſt; He calleth Heaven and Earth toge<g ref="char:EOLhyphen"/>ther</hi> 
+                  <note place="margin">
+                     <hi>Jer.</hi> 50.</note> 
+                  <hi>to judge His People.</hi>
+               </p>
+               <p>Given at the <hi>Hague</hi> in <hi>Holland,</hi> in the Year, 1642.</p>
+            </q>
+            <p>Like as the men and people of this laſt and preſent world, <note place="margin">4 <hi>Eſdr.</hi> 2. <hi>Mat.</hi> 7.11. <hi>Luk.</hi> 8. 10. <hi>Iſa.</hi> 8.28. <hi>Lu.</hi> 17.21. <hi>Mark</hi> 13. <hi>Epiſ. Jude</hi>
+               </note> as having forſaken God in their hearts or conſciences, ac<g ref="char:EOLhyphen"/>cording to the Miſtery of his Kingdom, do not believe that there ſhall be a Judgment: Yet for a fundamental change or removal of theſe preſent troubles and tribulations in the world: So neither and much leſs yet do the Shepheards or
+<pb n="12" facs="tcp:57991:7"/>
+Teachers believe, that the Judgment of God ſhall light up<g ref="char:EOLhyphen"/>on <note place="margin">
+                  <hi>Jer.</hi> 2.10. 23. 1 <hi>Pet.</hi> 4. <hi>Iſa.</hi> 3. 10. 59. <hi>Zeph.</hi> 3. <hi>Ier.</hi> 23. <hi>Ezek.</hi> 13. <hi>Mark</hi> 11. <hi>Iſa.</hi> 40.65. <hi>Rev.</hi> 16. <hi>Mark</hi> 13. <hi>Iſa.</hi> 28. <hi>Hoſea</hi> 4. <hi>Iohn</hi> 17. 2 <hi>Pet.</hi> 2.3. <hi>Rom.</hi> 1.5. <hi>Tit.</hi> 2. <hi>Mic.</hi> 3.7. <hi>Dan.</hi> 7.12. <hi>Iſa.</hi> 30.51. <hi>Ier.</hi> 9. <hi>Iſa.</hi> 1. 5. <hi>Hoſ.</hi> 10. <hi>Barac.</hi> 3. <hi>Syr.</hi> 16. <hi>Gen.</hi> 6.7.</note> themſelves in the firſt place, by reaſon that the deſtru<g ref="char:EOLhyphen"/>ction the people came and was brought into, through their unacknowledgement of God, ſhall light upon themſelves and their hypocriſie, <hi>Mat.</hi> 24.</p>
+            <p>Briefly theſe men and people that have forgotten all the works and deeds God did or wrought from the beginning of the world, they are conceited now as if all the earth were properly their own, and as if their falſe Prophets had al<g ref="char:EOLhyphen"/>ready taken the full poſſeſſion and diſpoſing of Heaven, unto themſelves, and God (according to their perverſe and ſtu<g ref="char:EOLhyphen"/>pid imaginations) had quite loſt his Almighty Power over Heaven and Earth: Wherefore nevertheleſs the Devil will be exceedingly diſappointed, as his members that will not ſuffer the Soveraignty of the Spirit of Chriſt, or of the Grace of God, to prevail any more, neither inwardly in their hearts, nor outwardly in the world, according to his right Judgement or Government: They know well enough al<g ref="char:EOLhyphen"/>ready every one according to his own wiſedom and pollicy how to defend themſelves; like unto thoſe Mighties and Tyrants of old, that were ruined with all their ſtrength, and drowned in the deluge, when the earth was likewiſe over<g ref="char:EOLhyphen"/>grown with violence and preſumption, <hi>Fpiſt. Jude.</hi>
+            </p>
+            <q>
+               <hi>A Servant of that God,</hi> 
+               <note place="margin">Iſa. 42. Act. 17. Pſa. 89. 95.</note> 
+               <hi>who calleth himſelf a Lord of Heaven and Earth,</hi> Iſa. 66.</q>
+            <p>The people of this laſt and preſent world, who indeed <note place="margin">1 <hi>Ioh.</hi> 1.2. <hi>Ier.</hi> 2.17. <hi>Eph.</hi> 4.5. <hi>Ioh.</hi> 1.8.12 a <hi>Pet.</hi> 2.</note> have no Communion more with God, but are rent aſunder by the diſſolving of the bond of the love of God, walking not at all in Chriſt the light of faith, but in errour or dark<g ref="char:EOLhyphen"/>neſs
+<pb n="13" facs="tcp:57991:7"/>
+of conſcience; and thus having broke, or forſaken the Covenant of the Second or New Teſtament inwardly in <note place="margin">
+                  <hi>Rom.</hi> 1.9. 12. 1 <hi>Cor.</hi> 1.3. 6. 12. <hi>Eſa.</hi> 1.5.4. 8. 56 57. 58. 59. <hi>Exod.</hi> 20. <hi>Ezek.</hi> 5. 6. 15. 20.21. 43. 44. <hi>Zac.</hi> 9. <hi>Jer.</hi> 7.8.11 <hi>Luke</hi> 22. <hi>Mat.</hi> 27. 1 <hi>Cor.</hi> 12. 1 <hi>Theſ.</hi> 2. 2. <hi>Ezek.</hi> 34. <hi>Zac.</hi> 10.11 <hi>Revel.</hi> 16. <hi>Jer.</hi> 5. 23. <hi>Acts</hi> 20. <hi>Ezek.</hi> 13. <hi>Mat.</hi> 24. <hi>Eph.</hi> 4. <hi>Gal.</hi> 1. 5. 1 <hi>Pet.</hi> 4. <hi>Mica.</hi> 3. <hi>Pſ.</hi> 12.80. <hi>Jer.</hi> 7. <hi>Mat.</hi> 21.24 <hi>Mar.</hi> 11.13 <hi>Rom.</hi> 1.11. <hi>Mat.</hi> 24. <hi>Jer.</hi> 7. 8. <hi>Hoſ.</hi> 4. 10. <hi>Ezek.</hi> 22. <hi>Hab.</hi> 3. <hi>Pſal.</hi> 94. <hi>Eſa.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 30. <hi>Amos</hi> 5. <hi>Eſa.</hi> 9. <hi>Amos.</hi> 9.</note> their hearts or conſciences, they are now Gods people juſt in the ſame manner, as were the <hi>Jews</hi> of old, who walked no more in the Law of <hi>Moſes,</hi> nor lived after the Commandments, Statutes, and Ordinances of God, for any ſpiritual deliverance, and crucified and killed even Chriſt himſelf, the Son of God, for their Temple-Cauſe, and for their falſe worſhips ſake, by the power of darkneſs, in their unacknowledgement of God.</p>
+            <p>The Shepherds of this preſent <hi>Babel,</hi> being divided into three parts, <hi>viz.</hi> the three unclean Spirits, Frogs, and Spi<g ref="char:EOLhyphen"/>rits of the Devil, that were never known, nor ſent of God, <hi>Mat.</hi> 7. they have not the Word of God, but ſteal it one from another, and have ſo far perverted the Word of the living God, the Lord of Hoſts, that the people that were deceived and ſeduced by them, do not any more at all a<g ref="char:EOLhyphen"/>gree among themſelves, according to the Goſpel of Chriſt, his Diſciples and Apoſtles, for which cauſe the Judgement of God ſhall light on them in the very firſt place, by rea<g ref="char:EOLhyphen"/>ſon of the deſtruction of the poor, which for ſuch a while hitherto hath been practiſed in the murdering Den of this falſe Chriſtendome, throughout all places and countryes, for the maintenance and ſupport of the hypocriſie of their diſtracted Religions, <hi>Luke</hi> 19. 20. <hi>Revel.</hi> 10. 12. 16.</p>
+            <p>And for as much as the Heathens, or falſe Chriſtians, ought not in no wiſe to maintain their outward Temple-Cauſe, or falſe worſhip with rage and fury, therefore they have cauſe to look well unto themſelves, now what they are about, in regard of theſe murdering Armes, which they have taken up one againſt another, only according to their own fierceneſs and revengefulneſs, as whereby they do not only pull the Judgement out of Gods hand, but they with<g ref="char:EOLhyphen"/>all kindle but the fire ſo much the more, to the utter ruine and deſtruction of the poor.</p>
+            <p>In which regard elſe, or by reaſon whereof, theſe wri<g ref="char:EOLhyphen"/>tings are addreſſed both unto the Parliament, and alſo to
+<pb n="14" facs="tcp:57991:8"/>
+the King of <hi>England,</hi> leſt by their unrighteous deſigns and purpoſes, and beſides too, with the very ſweat and <note place="margin">
+                  <hi>Jam.</hi> 5. <hi>Nah.</hi> 3. <hi>Jam.</hi> 23. <hi>Hoſ.</hi> 4. <hi>Mar.</hi> 13.</note> blood-money of the ſubjects, <hi>Amos</hi> 5. the ſubſtance and revenues which they take away from them, they do make them an utter prey and ſpoil, even to their own deſtruction; in the mean while ſoothing themſelves, and relying upon the hypocriſie and lyes of their falſe Prophets, or their remiſſi<g ref="char:EOLhyphen"/>ons or abſolving of ſins.</p>
+            <p>For the ſame God, that in former times hath drowned ſuch people with the deluge, is ready now to execute his judgement upon this preſent and laſt world, and upon their <note place="margin">
+                  <hi>Gen.</hi> 67. <hi>Ep. Jude.</hi> 2 <hi>Pet.</hi> 2.3 2 <hi>Tim.</hi> 4.</note> Shepherds, their Falſe Teachers, which every one (this Sect or Religion) hath heaped up unto himſelf.</p>
+            <closer>
+               <dateline>
+                  <hi>Given according to the Rights of God, his Judgements, which</hi> 
+                  <note place="margin">Jer. 5.8.</note> 
+                  <hi>is to be executed over this preſent</hi> 
+                  <note place="margin">Rev. 16.</note> Babel, Zeph. 3. <note place="margin">Iſa. 47.</note>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57991:8"/>
+            <pb facs="tcp:57991:9"/>
+            <pb facs="tcp:57991:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
